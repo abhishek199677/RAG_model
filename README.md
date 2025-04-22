@@ -4,7 +4,7 @@ In RAG, the system retrieves relevant information from a large knowledge base or
 
 
 
-conda create -n openai python = 3.10
+conda create -n openai python=3.10
 
 conda activate openai
 
